@@ -1,0 +1,256 @@
+Session_ID,Stream_Date,City,Subscription_Tier,Content_Type,Device_Type,User_Age,Content_Runtime_Mins,Buffering_Events,Trailer_Clicks,Watch_Duration_Mins
+OTT1149,2026-08-29,Mumbai,Mobile,Web Series,Smartphone,38,94,2,2,76.0
+OTT1133,2025-03-13,Delhi,Standard, Movie ,Smart TV,30,112,1,7,91.8
+OTT1211,2024-12-18,Delhi,Basic,Movie,Smart TV,23,151,3,6,106.1
+OTT1157,2025-04-21,Bengaluru,Premium,Live Sports,Smart TV,18,78,1,1,68.5
+OTT1022,2025-03-29,Bengaluru,Premium,Movie,Smartphone,46,131,,1,67.4
+OTT1087,2026-01-26,Bengaluru,Standard,Web Series,Smartphone,52,65,5,3,57.0
+OTT1160,2026-07-03,Delhi,Standard,Movie,Smartphone,,79,7,2,10.8
+OTT1205,2025-04-28,Delhi,Basic,Movie,Smartphone,23,97,2,3,71.6
+OTT1223,2025-07-01,Delhi,Premium,Movie,Laptop,53,153,2,2,96.6
+OTT1213,2026-06-05,Hyderabad,Standard,Movie,Laptop,50,108,3,4,67.5
+OTT1046,2025-10-03,Hyderabad,Standard,Movie,,47,155,1,0,103.5
+OTT1173,2026-05-24,Mumbai,Mobile,Live Sports,Smartphone,37,45,2,4,22.9
+OTT1167,2025-08-04,Pune,Standard,Web Series,Smartphone,25,148,,5,65.2
+OTT1034,2026-04-07,Delhi,Standard,Movie,Smart TV,45,115,2,8,45.9
+OTT1119,2025-03-23,Delhi,Mobile,Web Series,Smartphone,50,121,4,10,42.5
+OTT1227,2025-08-20,Delhi,Standard,Movie,Smartphone,46,53,0,10,53.0
+OTT1020,2025-01-25,Hyderabad,Standard,Web Series,Laptop,42,66,2,0,66.0
+OTT1038,2025-01-11,Hyderabad,Mobile,Movie,Smart TV,44,135,3,0,56.1
+OTT1214,2026-07-20,Delhi,Mobile,Web Series,Smartphone,24,126,5,2,32.4
+OTT1077,2026-09-28,Mumbai,Standard,Web Series,Smart TV,38,152,2,10,73.3
+OTT1197,2024-12-05,Bengaluru,Premium,Movie,Laptop,23,161,0,2,127.9
+OTT1226,2026-04-03,Delhi,Basic,Web Series,Smartphone,,128,3,1,70.4
+OTT1002,2026-02-10,Mumbai,Premium,Web Series,Smart TV,28,87,2,4,64.8
+OTT1115,2026-01-04,Delhi,Basic,Web Series,Smart TV,52,117,1,4,104.9
+OTT1004,2025-07-25,Mumbai,Basic,Documentary,Laptop,52,142,3,4,76.6
+OTT1019,2025-11-14,Mumbai,Standard,Movie,Smartphone,,139,3,7,57.0
+OTT1096,2026-05-30,Hyderabad,Standard,Movie,Smartphone,31,113,4,0,87.3
+OTT1084,2025-04-18,Delhi,Standard,Web Series,Smartphone,185,118,3,3,53.2
+OTT1159,2025-06-03,Pune,Premium, Web Series,Laptop,43,53,1,0,44.6
+OTT1156,2025-04-18,Mumbai,Premium,Web Series,Smart TV,52,164,2,0,122.0
+OTT1103,2025-05-13,Bengaluru,Basic,Web Series,Smartphone,26,119,1,4,119.0
+OTT1041,2026-01-28,,Basic,WEB SERIES ,Smartphone,43,136,4,0,58.7
+OTT1094,2026-02-18,Bengaluru,Standard,Web Series,Smartphone,28,126,4,0,73.1
+OTT1161,2026-04-02,Delhi,Mobile,Live Sports,Smart TV,38,107,4,10,61.1
+OTT1218,2026-10-15,Delhi,Premium,Documentary,Laptop,45,73,1,7,43.6
+OTT1078,2025-08-01,Hyderabad,Standard,Web Series,Smart TV,35,164,1,9,89.0
+OTT1140,2025-12-23,Hyderabad,Basic,Movie,Smartphone,51,145,2,2,104.7
+OTT1162,2026-03-11,Mumbai,Mobile,Live Sports,Smart TV,57,45,1,2,45.0
+OTT1121,2024-11-22,Hyderabad,Standard,Movie,,52,84,3,8,48.1
+OTT1220,2026-08-05,Delhi,Basic,Web Series,,23,81,1,5,67.1
+OTT1187,2026-09-24,Mumbai,Standard,Live Sports,Smart TV,37,104,0,6,104.0
+OTT1175,2026-07-30,Bengaluru,Basic,Web Series,Smart TV,22,77,2,4,65.3
+OTT1073,2025-05-31,Mumbai,Basic,Web Series,Smartphone,43,81,2,8,53.8
+OTT1203,2025-09-27,Mumbai,Basic,Movie,Smart TV,48,89,0,4,89.0
+OTT1135,2025-02-14,Hyderabad,Basic,Movie,Tablet,50,103,0,9,103.0
+OTT1109,2026-02-14,Mumbai,Mobile,Documentary,Smartphone,47,173,,2,69.6
+OTT1228,2025-06-24,Hyderabad,Basic,Movie,Smartphone,32,89,2,5,73.0
+OTT1189,2026-10-15,Bengaluru,Standard,Web Series,Laptop,52,145,2,3,101.0
+OTT1026,2026-10-11,Delhi,Mobile,Live Sports,Smart TV,53,167,4,9,102.6
+OTT1190,2026-07-30,Mumbai,Premium,Web Series,Laptop,32,48,1,5,48.0
+OTT1033,2025-01-23,Delhi,Mobile,Web Series,Smart TV,31,94,2,0,57.7
+OTT1116,2026-06-28,Mumbai,Standard,Web Series,Smartphone,55,148,1,6,89.0
+OTT1222,2026-06-10,Mumbai,Premium,Documentary,Smart TV,28,144,3,7,79.4
+OTT1054,2025-12-25,Pune,Basic,Movie,Laptop,41,120,1,0,57.3
+OTT1040,2025-03-23,Pune,Basic,Web Series,,53,94,6,5,8.0
+OTT1082,2026-06-16,Bengaluru,Basic,Movie,Smart TV,39,179,3,3,76.2
+OTT1247,2026-11-03,Delhi,Standard,Movie,Smartphone,57,110,1,8,92.5
+OTT1152,2026-02-17,Delhi,Premium,Web Series,Smartphone,21,62,1,4,62.0
+OTT1204,2025-11-03,Bengaluru,Standard,Live Sports,Smartphone,47,94,1,4,88.0
+OTT1117,2026-08-29,Bengaluru,Mobile,Movie,Smartphone,56,77,0,7,77.0
+OTT1127,2025-05-03,Delhi,Standard,Movie,Smart TV,40,133,1,0,118.5
+OTT1209,2026-10-16,Delhi,Premium,Web Series,Laptop,22,80,4,9,58.5
+OTT1224,2025-09-20,Pune,Mobile,Movie,Tablet,47,169,1,2,84.4
+OTT1028,2025-09-03,Bengaluru,Premium,Web Series,Smartphone,40,74,1,6,74.0
+OTT1108,2026-03-11,Delhi,Mobile,Movie,Smart TV,34,75,2,1,52.1
+OTT1122,2025-11-15,Hyderabad,Standard,Movie,Smart TV,30,114,2,5,83.7
+OTT1184,2025-05-11,Bengaluru,Standard,  movie,Laptop,56,127,2,6,124.1
+OTT1095,2026-07-16,Bengaluru,Mobile,Movie,Smartphone,-14,159,3,6,29.5
+OTT1201,2025-11-30,Hyderabad,Mobile,Web Series,Smartphone,60,121,1,5,60.4
+OTT1012,2025-01-24,Pune,Mobile,Web Series,Smart TV,35,174,3,5,90.2
+OTT1008,2026-05-28,Delhi,Premium,Movie,Smart TV,24,162,1,9,122.2
+OTT1007,2025-03-02,Mumbai,Basic,Movie,Smartphone,43,132,0,1,53.4
+OTT1069,2025-02-07,,Premium,Live Sports,Smartphone,54,98,1,4,77.8
+OTT1221,2025-07-14,Hyderabad,Standard,Movie,Smart TV,34,72,1,4,72.0
+OTT1249,2025-06-17,Delhi,Standard,Movie,Smartphone,,170,2,6,106.3
+OTT1092,2026-04-20,Delhi,Standard,Web Series,Smartphone,50,74,1,5,74.0
+OTT1186,2026-03-07,Bengaluru,Basic,Movie,Smartphone,20,147,2,0,34.1
+OTT1125,2025-01-10,Mumbai,Basic,Movie,Smartphone,59,61,2,1,25.4
+OTT1219,2025-09-12,Delhi,Premium,Movie,Smartphone,18,120,3,10,45.4
+OTT1143,2025-03-27,Pune,Mobile,Web Series,Smartphone,24,82,5,6,62.2
+OTT1148,2025-08-19,Hyderabad,Premium,Live Sports,Smartphone,57,121,5,3,72.3
+OTT1037,2025-02-16,Pune,Standard,Web Series,Laptop,39,103,2,10,76.1
+OTT1066,2026-10-09,Mumbai,Mobile,Web Series,Laptop,51,89,0,6,78.4
+OTT1099,2026-02-11,Delhi,Standard,Web Series,Laptop,46,60,2,6,60.0
+OTT1153,2024-12-28,Bengaluru,Basic,Movie,Smart TV,38,81,0,10,61.9
+OTT1061,2026-05-31,Delhi,Mobile,Web Series,Smart TV,19,140,0,7,57.9
+OTT1171,2025-01-11,Bengaluru,Standard,Web Series,Laptop,47,149,1,1,71.7
+OTT1232,2026-10-17,Mumbai,Basic,Web Series,Smart TV,56,108,1,6,73.9
+OTT1172,2025-07-22,Delhi,Mobile,Live Sports,Smartphone,44,76,0,7,52.9
+OTT1053,2026-05-13,,Mobile,Movie,Smartphone,23,136,2,7,30.7
+OTT1237,2026-05-03,Pune,Standard,Movie,Smartphone,55,94,1,5,82.0
+OTT1248,2026-03-18,Delhi,Mobile,Live Sports,Smartphone,49,132,0,6,95.1
+OTT1150,2025-08-23,Bengaluru,Mobile,Web Series,Smart TV,35,157,,10,26.5
+OTT1031,2026-10-29,Mumbai,Standard,Movie,Smart TV,21,154,2,8,92.0
+OTT1005,2026-04-10,Mumbai,Premium,Web Series,Laptop,59,59,4,7,59.0
+OTT1056,2026-01-28,Delhi,Basic,Movie,Laptop,35,119,2,9,79.4
+OTT1047,2025-09-15,Hyderabad,Basic,Movie,Smartphone,55,153,1,9,104.7
+OTT1195,2025-08-18,Hyderabad,Mobile,Movie,Smart TV,39,75,4,2,30.1
+OTT1112,2025-04-05,Bengaluru,Basic,Documentary,Smart TV,47,104,2,7,70.8
+OTT1142,2025-12-09,Bengaluru,Basic,Movie,Smartphone,44,172,0,9,140.2
+OTT1060,2025-02-24,Mumbai,Premium,Web Series,Laptop,41,133,1,6,88.8
+OTT1182,2026-02-07,Mumbai,Basic,Web Series,Laptop,22,133,0,6,69.9
+OTT1207,2025-01-30,Pune,Standard,Web Series,Smartphone,49,129,0,5,74.5
+OTT1001,2026-01-17,Delhi,Premium,Documentary,Smartphone,23,59,2,5,41.9
+OTT1089,2026-04-01,Mumbai,Mobile,live sports,Smart TV,23,109,4,7,11.5
+OTT1015,2026-10-27,Mumbai,Mobile,Documentary,Tablet,30,119,1,1,119.0
+OTT1141,2025-01-24,Mumbai,Mobile,Web Series,Smartphone,60,110,2,9,89.5
+OTT1130,2025-02-18,Delhi,Standard,Web Series,Laptop,49,93,0,7,62.5
+OTT1067,2024-11-25,Mumbai,Basic,Web Series,Smartphone,44,161,1,5,112.3
+OTT1088,2025-03-29,Bengaluru,Basic,Live Sports,Laptop,38,69,2,4,33.8
+OTT1039,2026-01-07,Hyderabad,Standard,Movie,Smart TV,49,174,4,3,72.7
+OTT1198,2025-11-12,Pune,Mobile,Movie,Smartphone,34,81,1,0,63.4
+OTT1240,2025-06-30,Bengaluru,Basic,Movie,Smart TV,27,82,1,1,57.8
+OTT1058,2024-12-13,Delhi,Mobile,Movie,Laptop,28,49,1,6,33.8
+OTT1118,2026-07-14,Mumbai,Basic,Web Series,Laptop,21,101,2,5,86.4
+OTT1110,2025-01-08,Hyderabad,Basic,Documentary,Smartphone,46,177,2,0,106.4
+OTT1076,2026-03-04,Mumbai,Basic,Movie,Smartphone,44,172,0,1,110.7
+OTT1179,2025-05-20,Hyderabad,Mobile,Documentary,Smartphone,18,175,3,8,90.7
+OTT1072,2026-08-07,Mumbai,Standard,Movie,Smartphone,21,93,2,9,78.7
+OTT1005,2026-04-10,Mumbai,Premium,Web Series,Laptop,59,59,4,7,59.0
+OTT1101,2026-05-27,Delhi,Premium,Live Sports,Smartphone,28,92,1,5,64.7
+OTT1050,2026-05-01,Delhi,Mobile,Web Series,Smartphone,44,99,4,3,63.6
+OTT1124,2025-12-20,Delhi,Standard,Live Sports,Smart TV,26,91,1,6,32.6
+OTT1164,2026-07-19,Hyderabad,Standard,Web Series,Laptop,39,101,1,5,76.2
+OTT1086,2025-12-04,Hyderabad,Premium,Web Series,Smart TV,46,84,0,8,65.5
+OTT1032,2026-07-11,Bengaluru,Mobile,WEB SERIES,Smartphone,57,127,0,0,52.7
+OTT1169,2025-10-05,Bengaluru,Standard,Web Series,Tablet,50,73,1,9,58.7
+OTT1163,2025-08-11,Mumbai,Basic,Web Series,Smartphone,56,116,1,1,82.2
+OTT1245,2025-11-22,Mumbai,Standard,Web Series,Smart TV,41,166,3,8,95.1
+OTT1035,2025-06-23,Delhi,Basic,Movie,Smart TV,24,112,2,0,81.7
+OTT1246,2025-11-04,Bengaluru,Mobile,Web Series,Smart TV,35,62,4,4,34.0
+OTT1055,2026-08-17,Bengaluru,Basic,Movie,Smart TV,55,74,1,8,52.9
+OTT1137,2026-08-31,Bengaluru,Mobile,Web Series,Smart TV,37,147,1,8,65.8
+OTT1071,2025-07-15,Delhi,Standard,Web Series,Tablet,50,146,4,0,66.1
+OTT1079,2025-05-02,Delhi,Mobile,Web Series,Smartphone,31,103,1,1,17.6
+OTT1146,2026-09-23,Bengaluru,Mobile,Web Series,Laptop,18,108,1,6,42.5
+OTT1042,2026-08-22,Mumbai,Mobile,Movie,Smart TV,44,135,5,7,5.0
+OTT1134,2026-10-14,Bengaluru,Basic,Movie,Smart TV,47,52,4,7,33.8
+OTT1085,2026-06-10,Mumbai,Mobile,Web Series,Smartphone,18,140,1,8,102.6
+OTT1048,2026-09-12,Pune,Mobile,Web Series,Smartphone,49,83,4,0,19.5
+OTT1168,2025-07-25,Mumbai,Basic,Movie,Smartphone,,161,1,5,77.9
+OTT1102,2026-04-22,Mumbai,Mobile,Live Sports,Laptop,31,62,0,8,48.3
+OTT1154,2025-05-01,Delhi,Basic,Movie,Laptop,49,104,1,0,80.8
+OTT1206,2025-01-06,Mumbai,Mobile,Movie,Smartphone,60,47,1,0,43.0
+OTT1064,2026-05-20,Delhi,Basic,Live Sports,Smartphone,21,118,1,10,113.3
+OTT1021,2025-08-06,Pune,Mobile,Live Sports,Smart TV,27,123,2,9,60.5
+OTT1139,2026-03-15,Bengaluru,Premium,Web Series,Smartphone,45,132,0,10,77.4
+OTT1017,2025-02-23,Delhi,Basic,Web Series,Smartphone,32,129,4,9,55.0
+OTT1113,2026-07-15,Mumbai,Basic,Documentary,Tablet,59,94,1,5,40.7
+OTT1043,2024-12-08,Hyderabad,Basic,Web Series,Smartphone,27,172,0,2,74.9
+OTT1202,2025-12-05,Bengaluru,Mobile,Movie,Smart TV,26,151,0,3,119.4
+OTT1092,2026-04-20,Delhi,Standard,Web Series,Smartphone,50,74,1,5,74.0
+OTT1057,2026-05-26,Delhi,Standard,Movie,Smartphone,,89,4,9,89.0
+OTT1010,2026-04-27,Delhi,Basic,Movie,Laptop,20,120,1,0,57.9
+OTT1225,2025-07-07,Hyderabad,Mobile,Web Series,Smartphone,31,167,2,3,90.5
+OTT1244,2025-05-14,Hyderabad,Mobile,Movie,Smart TV,18,58,2,10,39.3
+OTT1075,2026-05-16,Mumbai,Standard,Movie,Smartphone,25,152,2,2,126.3
+OTT1083,2025-11-08,Delhi,Basic,Web Series,Laptop,48,94,0,2,85.5
+OTT1185,2026-07-11,Bengaluru,Basic,Web Series,Smartphone,25,63,2,1,63.0
+OTT1100,2026-05-25,Delhi,Standard,Web Series,Smart TV,32,147,3,5,77.5
+OTT1215,2025-02-25,Delhi,Standard,Movie,Tablet,23,149,5,3,88.3
+OTT1196,2025-07-21,Mumbai,Premium,Web Series,Smart TV,58,138,5,1,39.6
+OTT1105,2026-07-09,Bengaluru,Mobile,Movie,Smartphone,44,103,2,8,49.2
+OTT1051,2024-12-10,Bengaluru,Mobile,Web Series,Tablet,35,171,3,1,78.3
+OTT1239,2026-01-08,Mumbai,Premium,Documentary,Laptop,60,101,0,1,79.7
+OTT1212,2026-07-17,Bengaluru,Premium,Live Sports,Smartphone,18,93,1,4,81.5
+OTT1070,2026-10-15,Mumbai,Basic,Live Sports,Smart TV,47,85,1,4,20.7
+OTT1016,2025-11-20,Mumbai,Mobile,Movie,Smartphone,34,88,2,10,50.4
+OTT1233,2026-05-23,Delhi,Mobile,Live Sports,Laptop,60,128,5,7,71.3
+OTT1128,2026-06-27,Mumbai,Mobile,Live Sports,Smartphone,31,87,2,4,36.7
+OTT1052,2026-09-02,Delhi,Basic,Web Series,Smart TV,32,168,2,7,89.1
+OTT1091,2026-02-04,Hyderabad,Standard,Web Series,Smartphone,21,150,2,8,114.8
+OTT1250,2025-08-06,Bengaluru,Basic,Web Series,Smartphone,41,64,3,8,64.0
+OTT1178,2026-04-14,Bengaluru,Basic,Web Series,Laptop,49,86,1,7,13.7
+OTT1120,2026-01-07,Mumbai,Basic,Web Series,Smart TV,39,149,1,6,63.6
+OTT1045,2026-07-07,Mumbai,Mobile,Movie,Smartphone,56,69,2,7,29.0
+OTT1170,2026-05-21,Bengaluru,Mobile,movie,Smartphone,26,79,3,1,44.5
+OTT1216,2026-06-06,Bengaluru,Standard,Web Series,Smartphone,52,144,3,8,86.8
+OTT1011,2026-03-09,Mumbai,Premium,Live Sports,Smartphone,58,121,3,0,64.9
+OTT1073,2025-05-31,Mumbai,Basic,Web Series,Smartphone,43,81,2,8,53.8
+OTT1106,2025-08-04,Bengaluru,Premium,Web Series,Smartphone,59,133,2,10,84.0
+OTT1176,2025-01-03,Bengaluru,Mobile,Web Series,Smart TV,52,117,0,4,105.3
+OTT1144,2026-08-14,Bengaluru,Basic,Live Sports,Smart TV,49,122,,5,98.8
+OTT1062,2025-01-09,,Standard,Movie,Smartphone,19,170,3,6,97.0
+OTT1042,2026-08-22,Mumbai,Mobile,Movie,Smart TV,44,135,5,7,5.0
+OTT1027,2024-12-14,Bengaluru,Basic,Movie,Smartphone,59,101,2,6,67.8
+OTT1006,2026-05-23,Delhi,Mobile,Live Sports,Smartphone,41,173,1,3,123.6
+OTT1123,2025-12-27,Mumbai,Premium,Movie,Smartphone,32,97,1,7,67.9
+OTT1229,2026-07-12,Delhi,Standard,Live Sports,Smartphone,57,173,2,1,121.8
+OTT1025,2025-07-08,Mumbai,Premium,Movie,Smartphone,37,91,2,5,50.9
+OTT1036,2026-04-23,Mumbai,Basic,Movie,Smartphone,57,72,3,2,30.9
+OTT1003,2025-03-29,Bengaluru,Standard,Web Series,Smart TV,39,156,0,3,117.1
+OTT1236,2025-12-15,Mumbai,Basic,Live Sports,Tablet,51,140,2,0,52.3
+OTT1063,2026-09-05,Delhi,Standard,Movie,Smartphone,51,100,0,8,56.8
+OTT1180,2026-02-07,Pune,Premium,Web Series,Smartphone,27,152,3,1,87.4
+OTT1024,2025-07-08,Delhi,Standard,Web Series,Laptop,48,133,2,0,81.0
+OTT1081,2025-12-27,Delhi,Standard,Movie,Laptop,57,63,1,9,63.0
+OTT1194,2026-02-17,Mumbai,Standard,Live Sports,Laptop,24,139,2,6,117.0
+OTT1166,2025-06-06,Bengaluru,Standard,Movie,Tablet,25,153,0,4,84.0
+OTT1065,2026-02-05,Mumbai,Standard,Movie,Smartphone,56,91,0,10,51.4
+OTT1126,2025-04-07,Pune,Mobile,Live Sports,Laptop,28,111,0,10,87.1
+OTT1210,2026-07-27,Mumbai,Standard,Web Series,Laptop,48,123,3,1,60.2
+OTT1029,2025-09-06,Mumbai,Basic,Movie,Smart TV,20,55,0,0,55.0
+OTT1138,2025-01-11,Delhi,Mobile,Movie,Laptop,42,137,4,0,82.3
+OTT1059,2026-08-23,Mumbai,Mobile,Movie,Smart TV,23,66,1,8,54.8
+OTT1199,2025-12-29,Mumbai,Standard,Movie,Smartphone,55,179,0,8,157.1
+OTT1208,2025-07-26,Bengaluru,Standard,Movie,Smart TV,29,132,2,5,105.0
+OTT1074,2025-11-10,Delhi,Premium,Web Series,Smart TV,31,143,2,8,115.1
+OTT1114,2026-04-06,Mumbai,Premium,Web Series,Smartphone,28,88,1,4,61.6
+OTT1193,2025-02-22,Mumbai,Premium,Web Series,Tablet,50,51,3,2,51.0
+OTT1068,2026-01-30,Delhi,Standard,Live Sports,Smartphone,50,167,2,6,80.9
+OTT1030,2026-02-01,Delhi,Mobile,Movie,Smartphone,52,134,2,9,65.1
+OTT1104,2026-09-26,Mumbai,Premium,Web Series,Laptop,41,53,2,3,53.0
+OTT1238,2026-03-08,Bengaluru,Standard,Movie,Laptop,44,178,3,3,123.2
+OTT1098,2026-10-10,Delhi,Mobile,Movie,Smartphone,53,115,0,8,52.4
+OTT1132,2026-10-30,Mumbai,Standard,Documentary,Smart TV,29,173,2,0,110.3
+OTT1093,2025-03-13,Bengaluru,Mobile,Live Sports,Smartphone,27,53,1,0,53.0
+OTT1174,2025-12-23,Bengaluru,Standard,Web Series,Smartphone,24,136,5,1,33.6
+OTT1155,2026-06-08,Mumbai,Basic,Movie,Smartphone,18,91,1,6,81.6
+OTT1009,2026-02-14,Delhi,Basic,Movie,Smartphone,32,157,2,6,110.2
+OTT1230,2026-01-29,Pune,Mobile,Movie,Smartphone,21,61,1,6,19.5
+OTT1191,2025-06-28,Mumbai,Mobile,Web Series,Tablet,49,78,4,3,73.4
+OTT1235,2026-09-29,Mumbai,Standard,Web Series,Laptop,47,97,3,3,61.4
+OTT1200,2025-12-28,Bengaluru,Standard,Web Series,Smartphone,26,73,1,5,39.0
+OTT1023,2025-11-21,Pune,Mobile,Movie,Laptop,35,55,0,7,55.0
+OTT1234,2025-04-15,Pune,Mobile,Web Series,Smartphone,57,159,1,3,70.9
+OTT1145,2025-12-03,Hyderabad,Standard,Web Series,Tablet,45,178,2,5,72.6
+OTT1217,2025-08-14,Bengaluru,Standard,Movie,Smart TV,59,80,3,2,41.3
+OTT1231,2026-08-24,Mumbai,Premium,Movie,Smart TV,44,53,3,10,43.5
+OTT1241,2025-09-29,Mumbai,Premium,Web Series,Smart TV,49,111,2,9,51.0
+OTT1080,2025-02-28,Pune,Standard,Web Series,Smartphone,22,155,1,1,93.5
+OTT1049,2025-02-07,Delhi,Mobile,Movie,Smart TV,50,63,3,6,31.4
+OTT1136,2026-08-17,Hyderabad,Standard,Movie,Smartphone,34,160,2,9,88.2
+OTT1242,2025-04-19,Delhi,Basic,Movie,Smartphone,48,61,1,1,56.5
+OTT1014,2025-12-14,,Premium,Movie,Laptop,60,153,3,4,93.0
+OTT1131,2026-06-23,Bengaluru,Standard,Movie,Smart TV,36,68,1,8,32.8
+OTT1158,2025-01-23,Mumbai,Standard,Movie,Smartphone,20,163,4,0,112.1
+OTT1107,2025-09-29,Bengaluru,Standard,Web Series,Smartphone,24,74,3,6,61.5
+OTT1181,2025-12-17,Hyderabad,Basic,Movie,Smart TV,39,104,0,7,63.7
+OTT1165,2026-07-02,Hyderabad,Standard,Movie,Smartphone,54,109,3,4,52.7
+OTT1018,2025-12-09,Delhi,Mobile,Movie,Laptop,42,124,0,10,100.6
+OTT1044,2026-07-25,Delhi,Standard,Live Sports,Smart TV,38,70,3,9,56.2
+OTT1013,2024-12-01,Hyderabad,Basic,Movie,Smartphone,57,136,2,8,85.1
+OTT1151,2025-05-20,Delhi,Mobile,Movie,Smartphone,40,133,2,4,63.1
+OTT1097,2025-06-30,Hyderabad,Mobile,Documentary,Laptop,32,105,2,10,17.2
+OTT1090,2026-05-13,Delhi,Basic,Web Series,Smartphone,24,63,1,2,9.6
+OTT1243,2025-01-16,Mumbai,Mobile,Live Sports,Smartphone,26,137,5,10,79.6
+OTT1188,2026-08-25,Bengaluru,Standard,Live Sports,Smartphone,34,98,1,7,89.1
+OTT1111,2025-08-27,Pune,Premium,Movie,Smart TV,52,176,0,1,100.5
+OTT1192,2025-03-21,Hyderabad,Basic,Web Series,Smart TV,60,110,2,9,107.6
+OTT1104,2026-09-26,Mumbai,Premium,Web Series,Laptop,41,53,2,3,53.0
+OTT1177,2026-04-01,Delhi,Mobile,Movie,Smartphone,40,177,1,8,77.3
+OTT1147,2026-03-31,Hyderabad,Premium,Movie,Smartphone,20,58,2,10,58.0
+OTT1129,2026-05-22,Mumbai,Basic,Live Sports,Tablet,40,60,2,1,22.6
+OTT1183,2025-12-20,Mumbai,Standard,Web Series,Smart TV,55,86,5,6,48.3
